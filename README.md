@@ -1,0 +1,2 @@
+# MODBUS-TCP-IP-LAN-Port-RJ45
+Read data from MODBUS TCP/IP via LAN port of laptop, computer, raspberry pi. This source code reads data from PLC, Temperature controller, energy meter, Echograph controllers,  etc controller that support  MODBUS TCP/IP data communication. It reads data from Register of controller or PLC and shows in Python using python code. #MODBUS #RS485 #RS-485 #Communication #Machine2machine #TCP/IP #MODBUS_TCP/IP #RS-232 #RS232
